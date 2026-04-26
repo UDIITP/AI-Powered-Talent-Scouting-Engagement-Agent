@@ -1,4 +1,4 @@
-# AI-Powered-Talent-Scouting-Engagement-Agent
+# AI-Powered Talent Scouting & Engagement Agent
 AI-powered talent scouting agent that matches, ranks, and engages candidates based on job descriptions.
 This is a simple AI-based tool I built to help with candidate screening.
 
