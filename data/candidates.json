@@ -1,0 +1,199 @@
+[
+    {
+        "name": "Aman Sharma",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "NLP"
+        ],
+        "experience": 3,
+        "projects": [
+            "Chatbot",
+            "Resume Parser"
+        ],
+        "location": "Delhi"
+    },
+    {
+        "name": "Priya Verma",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices"
+        ],
+        "experience": 4,
+        "projects": [
+            "E-commerce Backend"
+        ],
+        "location": "Bangalore"
+    },
+    {
+        "name": "Rahul Singh",
+        "skills": [
+            "Python",
+            "SQL",
+            "Data Analysis"
+        ],
+        "experience": 2,
+        "projects": [
+            "Dashboard",
+            "ETL Pipeline"
+        ],
+        "location": "Mumbai"
+    },
+    {
+        "name": "Neha Gupta",
+        "skills": [
+            "Python",
+            "Django",
+            "REST APIs"
+        ],
+        "experience": 3,
+        "projects": [
+            "E-commerce API"
+        ],
+        "location": "Noida"
+    },
+    {
+        "name": "Rohit Mehta",
+        "skills": [
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ],
+        "experience": 2,
+        "projects": [
+            "Blog API"
+        ],
+        "location": "Delhi"
+    },
+    {
+        "name": "Sneha Iyer",
+        "skills": [
+            "Python",
+            "Flask",
+            "SQL"
+        ],
+        "experience": 4,
+        "projects": [
+            "Analytics Dashboard"
+        ],
+        "location": "Bangalore"
+    },
+    {
+        "name": "Karan Patel",
+        "skills": [
+            "React",
+            "JavaScript",
+            "CSS"
+        ],
+        "experience": 2,
+        "projects": [
+            "Portfolio Website"
+        ],
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Anjali Desai",
+        "skills": [
+            "Python",
+            "Deep Learning",
+            "TensorFlow"
+        ],
+        "experience": 3,
+        "projects": [
+            "Image Classifier"
+        ],
+        "location": "Pune"
+    },
+    {
+        "name": "Vikram Reddy",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "experience": 5,
+        "projects": [
+            "Banking System"
+        ],
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Pooja Nair",
+        "skills": [
+            "Python",
+            "Pandas",
+            "Machine Learning"
+        ],
+        "experience": 2,
+        "projects": [
+            "Sales Prediction"
+        ],
+        "location": "Kochi"
+    },
+    {
+        "name": "Arjun Kapoor",
+        "skills": [
+            "Node.js",
+            "REST APIs",
+            "PostgreSQL"
+        ],
+        "experience": 3,
+        "projects": [
+            "Booking System"
+        ],
+        "location": "Delhi"
+    },
+    {
+        "name": "Meera Joshi",
+        "skills": [
+            "Python",
+            "NLP",
+            "Transformers"
+        ],
+        "experience": 4,
+        "projects": [
+            "Text Summarizer"
+        ],
+        "location": "Mumbai"
+    },
+    {
+        "name": "Siddharth Jain",
+        "skills": [
+            "C++",
+            "Algorithms",
+            "Data Structures"
+        ],
+        "experience": 1,
+        "projects": [
+            "Competitive Programming"
+        ],
+        "location": "Jaipur"
+    },
+    {
+        "name": "Ishita Banerjee",
+        "skills": [
+            "Python",
+            "Flask",
+            "Docker"
+        ],
+        "experience": 3,
+        "projects": [
+            "Microservices App"
+        ],
+        "location": "Kolkata"
+    },
+    {
+        "name": "Aditya Kulkarni",
+        "skills": [
+            "Python",
+            "FastAPI",
+            "MongoDB"
+        ],
+        "experience": 2,
+        "projects": [
+            "API Gateway"
+        ],
+        "location": "Pune"
+    }
+]
